@@ -1,0 +1,11 @@
+{
+  "name": "actly-futura",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "actlyfuturahealthy",
+  "email": "24523171@students.uii.ac.id",
+  "secretKey": "imuii_29b4b1062e11b1c00f3f9fa3b584d23c09a5b2dc44748dbdc4263f3412ed95b0",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/actlyfuturahealthy-cd7e40cf.git"
+}
